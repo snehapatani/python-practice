@@ -1,4 +1,4 @@
-Name,Age,City
-Alice,25,New York
-Bob,30,San Francisco
-Charlie,35,Los Angeles
+Name,Age,Sex,City,Salary
+Alice,25,F,New York,50000
+Bob,30,M,San Francisco,60000
+Charlie,35,M,Los Angeles,55000
